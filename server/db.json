@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tonynho O cara",
+      "email": "tonynho@aveng.com",
+      "phone": "15-91660-5478"
+    },
+    {
+      "name": "Angular",
+      "email": "Json",
+      "phone": "7438976523890602983",
+      "id": 2
+    }
+  ]
+}
